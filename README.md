@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mahraz
 - 👀 I’m interested in sports,gaming and traveling.
-- 🌱 I’m currently learning Data Mining, Machine learning.
+- 🌱 Working as a Software Engineer
+- 💻 Learning ASP.NET.
 - 📫 How to reach me -> mahraz.ewu@gmail.com
